@@ -2,7 +2,6 @@ const items = [
   'Software Engineer','✦','Full Stack Dev','✦',
   'Backend Dev','✦','C++ Developer','✦',
   'Problem Solver','✦','Open to Work','✦',
-  'Bengaluru, India','✦',
 ]
 
 export default function Marquee() {
