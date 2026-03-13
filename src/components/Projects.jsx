@@ -5,7 +5,7 @@ const projects = [
     id: '01',
     title: 'Letters & Ladders',
     subtitle: 'Word Game · Full Stack',
-    desc: 'An interactive application for Dyslexia students for state syllabus with simplification,dictionary and text to speech ',
+    desc: 'An interactive learning app for dyslexic students based on the state syllabus that simplifies textbook content and provides dictionary and text-to-speech support to improve understanding. It also includes interactive activities to make learning easier and more engaging. ',
     tech: ['React Native', 'FireBase', 'Flask', 'Qwen'],
     href: 'https://github.com/Karthik1056/Letters-And-Ladder',
     color: '#60a5fa',
