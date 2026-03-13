@@ -25,7 +25,7 @@ export default function About() {
         {/* Right */}
         <div className="reveal space-y-4 sm:space-y-5" style={{ transitionDelay: '0.1s' }}>
           <p className="text-white/60 font-light text-sm sm:text-base leading-[1.85]">
-            I'm a 2026 Computer Science graduate from Bengaluru, India. I'm passionate
+            I'm a 2026 Information Science graduate from Bengaluru, India. I'm passionate
             about writing clean, efficient code that solves real-world problems — from
             backend APIs to full-stack web apps and algorithmic C++ solutions.
           </p>
